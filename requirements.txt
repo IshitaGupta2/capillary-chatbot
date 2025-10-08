@@ -1,0 +1,8 @@
+streamlit
+faiss-cpu
+pandas
+numpy
+requests
+langchain
+openai
+python-dotenv
