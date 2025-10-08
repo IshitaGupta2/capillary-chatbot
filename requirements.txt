@@ -6,3 +6,4 @@ requests
 langchain
 openai
 python-dotenv
+sentence-transformers
